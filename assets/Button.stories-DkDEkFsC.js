@@ -1,4 +1,4 @@
-import{f as b}from"./index-B7YJKKKT.js";import{B as y}from"./Button-BdN_XYjr.js";import"./jsx-runtime-D_zvdyIk.js";import"./index-D4lIrffr.js";const k={title:"Example/Button",component:y,parameters:{layout:"centered"},tags:["autodocs"],argTypes:{backgroundColor:{control:"color"}},args:{onClick:b()}},r={args:{primary:!0,label:"Button"}},a={args:{label:"Button"}},e={args:{size:"large",label:"Button"}},o={args:{size:"small",label:"Button"}};var s,t,n;r.parameters={...r.parameters,docs:{...(s=r.parameters)==null?void 0:s.docs,source:{originalSource:`{
+import{f as b}from"./index-B7YJKKKT.js";import{B as y}from"./Button-DDm60AkT.js";import"./jsx-runtime-D_zvdyIk.js";import"./index-D4lIrffr.js";const k={title:"Example/Button",component:y,parameters:{layout:"centered"},tags:["autodocs"],argTypes:{backgroundColor:{control:"color"}},args:{onClick:b()}},r={args:{primary:!0,label:"Button"}},a={args:{label:"Button"}},e={args:{size:"large",label:"Button"}},o={args:{size:"small",label:"Button"}};var s,t,n;r.parameters={...r.parameters,docs:{...(s=r.parameters)==null?void 0:s.docs,source:{originalSource:`{
   args: {
     primary: true,
     label: 'Button'
